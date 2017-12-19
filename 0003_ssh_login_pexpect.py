@@ -4,10 +4,10 @@ from pexpect import pxssh
 class SshLogin(object):
     """docstring for ClassName"""
     def __init__(self):
-        self.ip = '10.36.199.7'
+        self.ip = '10.0.0.1'
         self.port = 22
-        self.username = 'kperiyaswamy'
-        self.password = 'Lucky@786'
+        self.username = 'username'
+        self.password = 'password'
 
     def ssh_login(self):
 
