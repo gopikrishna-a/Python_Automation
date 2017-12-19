@@ -1,7 +1,7 @@
 
 import paramiko
 
-class PdpPerfomance(object):
+class SshLoginUsingPemKey(object):
 	"""docstring for ClassName"""
 	def __init__(self):
 		pass
@@ -23,5 +23,5 @@ class PdpPerfomance(object):
 			print("Connection Failed!!!")
 
 
-obj = PdpPerfomance()
+obj = SshLoginUsingPemKey()
 obj.ssh_login()
