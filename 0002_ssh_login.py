@@ -1,7 +1,7 @@
 
 import paramiko
 
-class PdpPerfomance(object):
+class SshLogin(object):
 	"""docstring for ClassName"""
 	def __init__(self):
 		self.ip = '10.0.0.0'
@@ -26,5 +26,5 @@ class PdpPerfomance(object):
 
 
 
-obj = PdpPerfomance()
+obj = SshLogin()
 obj.ssh_login()
