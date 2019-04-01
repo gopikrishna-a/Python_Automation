@@ -1,0 +1,1 @@
+"MIME-Version: 1.0\nSubject: LOG ROTATION TEST REPORT\nContent-type: text/html\n\n\n<html><head><style></style></head><body><p>Hi Team</p><p>The following is the report for Log rotation test:</p>\n\n{}\n\n<p>Regards,</p>\n\n<p>Gopikrishna A</p></body></html>"
